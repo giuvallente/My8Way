@@ -1,0 +1,27 @@
+# Ignorar arquivos temporários do Unity e Visual Studio
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Arquivos do VSCode
+.vscode/
+
+# Crashlytics
+crashlytics-build.properties
